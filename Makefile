@@ -1,5 +1,5 @@
 up:
-	docker-compose up -d
+	docker-compose up
 login:
 	docker-compose exec -it nginx bash
 build:
